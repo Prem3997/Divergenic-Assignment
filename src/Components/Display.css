@@ -1,0 +1,5 @@
+.display__model{
+    display: flex;
+    flex-direction: column;
+    
+}
